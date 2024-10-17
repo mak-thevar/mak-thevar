@@ -41,6 +41,8 @@ I regularly post bite-sized .NET tips and tricks on LinkedIn. Connect with me to
 **<h2 align="left">🌐Socials</h2>** 
 <p align="left"><a href="https://www.linkedin.com/in/mak11" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/makthevar" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/mak-thevar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@mk-techshorts" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
+<a href="https://app.daily.dev/makthevar"><img src="https://api.daily.dev/devcards/v2/O2vqkbcQQ55qXK2hihh7u.png?type=wide&r=cvg" width="452" alt="Mak Thevar's Dev Card"/></a>
+
 
 # 💻Tech Stack
 
