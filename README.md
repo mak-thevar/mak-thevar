@@ -28,18 +28,16 @@ Fluent in English, Hindi, Marathi, and Tamil. I speak human and machine language
 ### 💡 .NET Tips Master
 I regularly post bite-sized .NET tips and tricks on LinkedIn. Connect with me to level up your .NET game!
 
-### 🤝 Let's Connect and Code!
+**<h2 align="left">🤝Let's Connect and Code!</h2>** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mak11)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mak-thevar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mak-thevar)
+<a href="https://www.youtube.com/@mk-techshorts" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a>
+<a href="https://twitter.com/makthevar" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
 
 🚀 Explore my repos, star what you like, and let's collaborate on making the digital world a better place!
 
 💬 Pro tip: Follow me on LinkedIn for daily doses of .NET wisdom and tech humor. Let's grow together!
-
-
-**<h2 align="left">🌐Socials</h2>** 
-<p align="left"><a href="https://www.linkedin.com/in/mak11" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/makthevar" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/mak-thevar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@mk-techshorts" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 <a href="https://app.daily.dev/makthevar"><img src="https://api.daily.dev/devcards/v2/O2vqkbcQQ55qXK2hihh7u.png?type=wide&r=cvg" width="452" alt="Mak Thevar's Dev Card"/></a>
 
